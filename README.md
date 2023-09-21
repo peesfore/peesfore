@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @peesfore
+- 👋 Hi, I’m @techn010gy
 - 👀 I’m interested in PS4/5 Development tools
 - 🌱 I’m currently learning that getting old is not fun!
-- 💞️ I’m looking to collaborate on The Beatles next album...
-- 📫 How to reach me on Twitter @techn010gy1
+ - 📫 How to reach me on Twitter @techn010gy1
 
 <!---
 peesfore/peesfore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
